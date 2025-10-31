@@ -32,5 +32,3 @@ The single-page dashboard presents a holistic view of Blinkit's sales performanc
 
 
     *   Open the `blinkit_project.pbix` file with Power BI Desktop.
-
-## 📂 Project Structure
